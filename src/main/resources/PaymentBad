@@ -1,0 +1,11 @@
+{
+"cardNumber": "",
+"cvv": "",
+"expirationDate": "",
+"amount": "",
+"usage": "",
+"transactionType": "",
+"cardHolder": "",
+"email": "",
+"address": ""
+}
